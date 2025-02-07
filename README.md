@@ -3,7 +3,7 @@
 My name is Francisco, and I'm a Master student in Big Data Analytics at UC3M in Madrid, Spain. I am interested in solving problems through data science! I am currently 
 
 - 🔭 I’m currently learning Data Engineering through Zoomcamp
-- 🌱 I recently built  
+- 🌱 I recently built ___, check it out here [linkedid](https://www.linkedin.com/in/francisco-wagner/)
 
 
 <!--
