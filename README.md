@@ -1,22 +1,8 @@
 ## Hi there 👋
 
-My name is Francisco, and I'm a Master student in Big Data Analytics at UC3M in Madrid, Spain. I am interested in solving problems through data science! I am currently 
+My name is Francisco, and I'm a Master student in Big Data Analytics at UC3M in Madrid, Spain. I am interested in solving problems through data science!
 
-- 🔭 I’m currently learning Data Engineering through Zoomcamp
-- 🌱 I recently built ___, check it out here [link](https://www.linkedin.com/in/francisco-wagner/)
+- I’m currently learning Data Engineering through Zoomcamp
+- I recently built ___, check it out here 
 
-
-<!--
-**FranciscoWagnerManetti/FranciscoWagnerManetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach me through [link](https://www.linkedin.com/in/francisco-wagner/)!
